@@ -19,6 +19,18 @@ A full-stack blogging platform built with React (Vite), Node.js, Express, and My
 - **Backend:** Node.js, Express, MySQL, argon2, multer, jsonwebtoken, cookie-parser, cors
 - **Database:** MySQL (local or serverless, e.g., PlanetScale)
 
+## 📸 Preview
+
+| ![Screenshot 1](https://github.com/user-attachments/assets/915fb6cb-7b64-4585-9ebe-5d2e5fb914d0) | ![Screenshot 2](https://github.com/user-attachments/assets/bcaedb69-e16d-423a-bb0a-efcad095e4b2) | ![Screenshot 3](https://github.com/user-attachments/assets/29c1ca16-03aa-44a3-867e-cbe15d8caf8c) |
+|:--:|:--:|:--:|
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+
+| ![Screenshot 4](https://github.com/user-attachments/assets/d49f54ca-29e5-4613-b883-c5c7da217ab5) | ![Screenshot 5](https://github.com/user-attachments/assets/3b69fa09-ed07-4255-b5a1-737c6f9fab11) |
+|:--:|:--:|
+| Screenshot 4 | Screenshot 5 |
+
+
+
 ## Getting Started
 
 ### Prerequisites
